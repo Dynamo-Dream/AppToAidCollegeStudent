@@ -1,31 +1,38 @@
-# AppToAidCollegeStudent
-An app that handles all of the challenges that college students experience, such as obtaining an internship or employment, 
-balancing their life and education, negotiating student loan debt, organizing their assignments, establishing deadlines, 
-and keeping track of their grades. It’s one of the most creative hackathon problem statements for beginners.
-- # Team Triple A
-- Anish Kumar (Captain, College = IIIT Ranchi)
-- Ayush Kushwaha (College = IIIT Ranchi)
-- # Idea and Approach
-- 1.) The idea is to create two apps that share a single database. 
-2.) An Admin App, accessible by professors and job posters, will allow them to post jobs and research topics for college students to apply.  It will also show the students who applied for certain project and Faculty or Employer can Shoertlist them
-3.) A Student App will be divided into 4 parts
-Firstly  Student will be able to see recent job or research posted by Faculty or potential Employer.
-Student will be able apply from there by providing relevant Information
-Secondly Student will be able to compare different student Loans provided by different banks and will be able to choose the policy which suits them the best.
-Thirdly It will be consist of a portal where student can post problem or thing they need which will be shown to every person using the app. If anybody will be capable of help they might contact the person. Example if a student urgently needs Paracetamol tablet they can post there request
-Fourthly it consists of  Task Managment Portal where students can upload and manage task which will use Eisenhower Matrix to help them arrange task so that they do not waste time on any unnecessary task and can maintain healthy work Life balance. 
-Since we forget easily, by uploading task here you can always access it and complete every project on time
-- # Tech Stack
+**Project Overview:**
+
+AppToAidCollegeStudent is a comprehensive application designed to address the multitude of challenges that college students face on a daily basis. From securing internships and employment opportunities to managing academic assignments, juggling personal and educational life, and even navigating the complexities of student loans, this app is the ultimate solution for students seeking to streamline their college experience.
+
+**Team: Team Triple A**
+
+- Anish Kumar (Captain, College: IIIT Ranchi)
+- Ayush Kushwaha (College: IIIT Ranchi)
+
+**Idea and Approach:**
+
+Our project revolves around the creation of two distinct yet interconnected apps sharing a single database:
+
+1. **Admin App:** This app is accessible to professors and job posters. It allows them to post job listings and research topics for college students to apply to. Professors and employers can also shortlist and manage applicants.
+2. **Student App:** This app is specifically tailored for college students and is divided into four key components:
+    
+    a. **Job and Research Listings:** Students can browse recent job and research opportunities posted by faculty members and potential employers. They can apply directly from the app by providing relevant information.
+    
+    b. **Student Loan Comparison:** Students can compare various student loan policies offered by different banks, enabling them to choose the one that best suits their needs.
+    
+    c. **Community Portal:** This section allows students to post their needs or problems, which are visible to all app users. If someone can provide assistance, they can connect and help each other. For instance, a student in need of a specific medication can post their request here.
+    
+    d. **Task Management Portal:** This feature helps students organize their tasks efficiently using the Eisenhower Matrix, ensuring they prioritize important tasks and maintain a healthy work-life balance. Tasks can be uploaded, managed, and accessed at any time to stay on top of deadlines.
+    
+
+**Tech Stack:**
+
 - Firebase Authentication and Realtime Database
 - Kotlin
 - Jetpack Compose Libraries
-- # Deployed URL
-- Student App
-- https://drive.google.com/file/d/1WJCYirJT5YmiUIc5i4_bdh1vxkzWEcT9/view?usp=share_link
-- Email:- anish@gmail.com
-- Password:- 123456789
-- or any mail ending with iiitranchi.ac.in
-- Admin App
-- https://drive.google.com/file/d/1RlzWCQcT4ggIV-Bb_4Qnrl1EXka--2--/view?usp=share_link
-- Github Link Admin App
-- https://github.com/Ayush92-byte/FinalAdminApp
+
+**Deployed URLs:**
+
+- **Student App**: **[View App](https://drive.google.com/file/d/1WJCYirJT5YmiUIc5i4_bdh1vxkzWEcT9/view?usp=share_link)**
+    - Email: **[anish@gmail.com](mailto:anish@gmail.com)**
+    - Password: 123456789 (or any email ending with iiitranchi.ac.in)
+- **Admin App**: **[View App](https://drive.google.com/file/d/1RlzWCQcT4ggIV-Bb_4Qnrl1EXka--2--/view?usp=share_link)**
+    - GitHub Link (Admin App): **[GitHub Repository](https://github.com/Ayush92-byte/FinalAdminApp)**
