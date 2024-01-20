@@ -2,6 +2,10 @@
 
 AppToAidCollegeStudent is a comprehensive application designed to address the multitude of challenges that college students face on a daily basis. From securing internships and employment opportunities to managing academic assignments, juggling personal and educational life, and even navigating the complexities of student loans, this app is the ultimate solution for students seeking to streamline their college experience.
 
+**Image**
+![Screenshot_2024-01-21-00-19-20-651_com example apptoaidcollegestudent](https://github.com/Dynamo-Dream/Student-Mate-App/assets/93912318/d533f215-9115-4665-9667-b0ce7729808b)
+
+
 **Team: Team Triple A**
 
 - Anish Kumar (Captain, College: IIIT Ranchi)
