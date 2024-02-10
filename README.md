@@ -39,7 +39,8 @@ Our project revolves around the creation of two distinct yet interconnected apps
 
 ### **Images:**
 
-![Screenshot_2024-01-21-00-18-08-795_com.example.apptoaidcollegestudent.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/fdd4678e-e8c1-4dad-93dc-14f042359d6e/c24d9768-7b12-432f-815c-883d9b80056c/Screenshot_2024-01-21-00-18-08-795_com.example.apptoaidcollegestudent.jpg)
+![Screenshot_2024-01-21-00-18-08-795_com.example.apptoaidcollegestudent.jpg](https://drive.google.com/file/d/1pvP5mlRlWC4P0E76jAVhQXwAS3x_bLo-/view?usp=drive_link)
+
 
 ![Screenshot_2024-01-21-00-18-40-288_com.example.apptoaidcollegestudent.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/fdd4678e-e8c1-4dad-93dc-14f042359d6e/5c5fae21-0adf-44d8-b96a-4d917348abd1/Screenshot_2024-01-21-00-18-40-288_com.example.apptoaidcollegestudent.jpg)
 
